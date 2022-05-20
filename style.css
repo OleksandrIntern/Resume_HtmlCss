@@ -1,0 +1,40 @@
+h2{
+    /* display: inline-block; */
+    font-family: Arial;
+
+    text-align: right;
+    /* float:right; */  
+}
+h1{
+    /* display: inline-block; */
+    font-family:  Helvetica;
+    color: lime;
+    text-align: center;
+    /* float:right; */
+    
+}
+img{
+    /* float:left; */
+    padding: 5px;
+    width: 200px;
+    margin-left: 0px;
+    outline:ridge;
+    border-radius: 8px;
+    margin: 0;
+}
+#list{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    float : right;
+    
+}
+th{
+    outline:ridge;
+}
+td{
+    outline:ridge;
+}
+a{
+    color:green;
+}
